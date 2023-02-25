@@ -1,0 +1,3 @@
+To jest wiadomosc
+Przeczytaj mnie
+Korzystajac z pythona
